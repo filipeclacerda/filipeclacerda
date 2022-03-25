@@ -14,7 +14,7 @@
 #### About me:
 
 - 🔭 I’m currently doing some freelance jobs
-- 🌱 I’m currently learning Laravel and more about JavaScript
+- 🌱 I’m currently learning Laravel and more about JavaScript's frameworks
 - 📫 How to reach me: filipeclacerda@gmail.com
 
 
