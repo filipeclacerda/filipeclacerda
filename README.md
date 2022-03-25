@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello there! I'm Filipe Lacerda.
 
-<!--
-**filipeclacerda/filipeclacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> I am bachelor in information systems. Post graduating in Software Engineering. </p>
 
-Here are some ideas to get you started:
+#### My favorite languages:
+- PHP
+- JavaScript
+- React
+- React Native
+- Java
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently doing some freelance jobs
+- 🌱 I’m currently learning Laravel and more about JavaScript
+- 📫 How to reach me: filipeclacerda@gmail.com
+
+
+<p>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=filipeclacerda&count_private=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeclacerda&layout=compact" />
+</p>
