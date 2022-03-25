@@ -18,5 +18,5 @@
 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=filipeclacerda&count_private=true" />
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeclacerda&layout=compact" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeclacerda&layout=compact" />
 </p>
