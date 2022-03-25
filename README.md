@@ -16,6 +16,6 @@
 - 📫 How to reach me: filipeclacerda@gmail.com
 
 
-<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=filipeclacerda&count_private=true" />
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeclacerda&layout=compact" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=filipeclacerda&count_private=true" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeclacerda&layout=compact" />
 
