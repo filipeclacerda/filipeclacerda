@@ -1,6 +1,6 @@
 ### Hello there! I'm Filipe Lacerda.
 
-<p> I am bachelor in information systems. Post graduating in Software Engineering. </p>
+<p> I hold a bachelor in information systems. Post graduating in Software Engineering. </p>
 
 #### My favorite languages:
 - PHP
