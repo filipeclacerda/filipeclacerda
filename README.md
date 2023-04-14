@@ -25,10 +25,10 @@
 
 #### Let's Connect:
 <p>I'm excited about exploring new challenges and contributing to meaningful projects. Let's connect and discuss how I can help you achieve your software development goals!</p>
-<a href="https://www.linkedin.com/in/filipeclacerda/" target="_new"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
-<a href="https://github.com/filipeclacerda" target="_new"><img src="https://img.shields.io/badge/GitHub-Follow-green" alt="GitHub"></a>
-<a href="https://filipelacerda.hypvel.com" target="_new"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet" alt="Portfolio"></a>
-<a href="mailto:filipeclacerda@gmail.com" target="_new"><img src="https://img.shields.io/badge/Email-Send-orange" alt="Email"></a><br><br>
+<a href="https://www.linkedin.com/in/filipeclacerda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+<a href="https://github.com/filipeclacerda" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-green" alt="GitHub"></a>
+<a href="https://filipelacerda.hypvel.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet" alt="Portfolio"></a>
+<a href="mailto:filipeclacerda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Send-orange" alt="Email"></a><br><br>
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeclacerda&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipeclacerda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
