@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Filipe Lacerda
 
-I'm a skilled Software Engineer with a passion for technology. With over 4 years of experience in developing web and mobile applications, I specialize in designing efficient and scalable software solutions using modern frameworks such as React.js, React Native, and Laravel.
+I'm a Software Engineer with a strong passion for technology. With 4+ years of experience in web and mobile application development, my focus is on creating efficient and scalable software solutions. I specialize in utilizing modern frameworks like React.js, React Native, and Laravel to deliver high-quality products.
 
 ## Favorite Languages
 
