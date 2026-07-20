@@ -19,7 +19,7 @@ I work across the stack, from backend architecture and APIs to responsive interf
 * Developing cross-platform mobile experiences with **Expo and React Native**
 * Working with **MongoDB, SQL databases, Docker, and CI/CD workflows**
 * Learning **Rust** and exploring systems programming
-* Creating and maintaining personal projects such as **Lúmen, Libre, and insane-cli**
+* Creating and maintaining personal projects such as **Lumen, Libre, and insane-cli**
 
 I enjoy work that pushes me beyond familiar solutions—projects where I can understand the problem deeply, learn something new, and leave the codebase better than I found it.
 
