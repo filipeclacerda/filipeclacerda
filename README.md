@@ -1,41 +1,69 @@
-# Hello there! 👋 I'm Filipe Lacerda
+<div align="center">
 
-I'm a Software Engineer with a strong passion for technology. With 4+ years of experience in web and mobile application development, my focus is on creating efficient and scalable software solutions. I specialize in utilizing modern frameworks like React.js, React Native, and Laravel to deliver high-quality products.
+# Hi, I'm Filipe Lacerda 👋
 
-## Favorite Languages
+### Full-Stack Software Engineer focused on web and mobile products
 
-- PHP
-- JavaScript
-- React.js
-- React Native
-- Java
-- Python
-- Laravel
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-filipeclacerda-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/filipeclacerda/)
+[![Email](https://img.shields.io/badge/Email-filipeclacerda%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:filipeclacerda@gmail.com)
+
+</div>
+
+## About me
+
+I'm a **Full-Stack Software Engineer IV at CAEd/UFJF** with **7+ years of experience** building web and mobile applications. My background is primarily in web development, with hands-on experience delivering mobile products as well.
+
+I work across the stack, from backend architecture and APIs to responsive interfaces, mobile apps, databases, containers, and delivery pipelines. I care about writing software that is reliable, maintainable, and useful beyond the first release.
+
+* Building applications with **Laravel/PHP, Node.js, Next.js, React, and TypeScript**
+* Developing cross-platform mobile experiences with **Expo and React Native**
+* Working with **MongoDB, SQL databases, Docker, and CI/CD workflows**
+* Learning **Rust** and exploring systems programming
+* Creating and maintaining personal projects such as **Lúmen, Libre, and insane-cli**
+
+I enjoy work that pushes me beyond familiar solutions—projects where I can understand the problem deeply, learn something new, and leave the codebase better than I found it.
+
+## Tech stack
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square\&logo=nodedotjs\&logoColor=white)
+
+**Frontend & Mobile**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square\&logo=expo\&logoColor=white)
+
+**Data & Delivery**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+
+**Currently learning**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
 
 ## Education
 
-- 🎓 Bachelor's degree in Information Systems.
-- 🎓 Graduate degree in Software Engineering.
+* Bachelor's degree in Information Systems
+* Graduate degree in Software Engineering
 
-## About Me
+## Featured work
 
-- 💼 Currently working as a Systems Analyst for CAEd/UFJF.
-- 🔭 Also taking on freelance jobs.
-- 🌱 Continuously learning Laravel and exploring more about JavaScript frameworks.
+You can find projects such as **Lumen**, **Libre**, and **insane-cli** among my repositories. Check out the pinned projects below for a closer look at what I've been building.
 
-## Continuous Learning and Growth
+## Let's connect
 
-I am committed to continuous learning and self-improvement. I strive to stay updated with the latest industry trends and enhance my skills through continuous learning and professional development.
+I'm always interested in exchanging ideas about software engineering, open-source projects, and the challenges behind building great products.
 
-## Let's Connect
-
-I'm excited about exploring new challenges and contributing to meaningful projects. If you'd like to discuss how I can help you achieve your software development goals, let's connect!
-
-<a href="https://www.linkedin.com/in/filipeclacerda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
-<a href="https://github.com/filipeclacerda" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-green" alt="GitHub"></a>
-<a href="https://filipelacerda.hypvel.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet" alt="Portfolio"></a>
-<a href="mailto:filipeclacerda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Send-orange" alt="Email"></a><br><br>
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeclacerda&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipeclacerda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- </div>
+* [LinkedIn](https://www.linkedin.com/in/filipeclacerda/)
+* [Portfolio](https://filipelacerda.hypvel.com)
+* [Email](mailto:filipeclacerda@gmail.com)
